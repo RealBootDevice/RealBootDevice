@@ -18,6 +18,6 @@
 
 ### Contacts
 
-- 📒 Discord: boot_device
+- 📒 Discord: bootdevice
 
 <a href="https://www.evilshield.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=RealChangeGame&show_icons=true&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealChangeGame&layout=compact&show_icons=true&theme=dark" /></a>
